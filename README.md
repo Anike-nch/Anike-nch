@@ -37,12 +37,17 @@
 </div>
 
 ## Тестовая документация
-
-<div> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; </div>
+<div>
+  <img src="https://cdn.simpleicons.org/jira" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/confluence" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/notion" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
 
 ## Работа с базами данных
-
-<div> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DBeaver.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp; </div>
+<div>
+  <img src="https://cdn.simpleicons.org/postgresql" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/dbeaver" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+</div>
 
 ## Образование
 
