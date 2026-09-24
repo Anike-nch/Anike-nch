@@ -37,19 +37,12 @@
 </div>
 
 ## Тестовая документация
-<div>
-   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-</div>
+
+<div> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; </div>
 
 ## Работа с базами данных
-<div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
-</div>
+
+<div> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DBeaver.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp; </div>
 
 ## Образование
 
