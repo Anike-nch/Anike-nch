@@ -50,6 +50,9 @@
 </div>
 
 ## Образование
+<div>
+QA Studio
+![Сертификат QA Engineer](./sertif.png)
 
 <br>
 
