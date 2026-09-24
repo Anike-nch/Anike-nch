@@ -3,13 +3,13 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxEvdokimov1)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MaxEvdokimov1)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Anike_nch)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Anike_nch)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MaxEvdokimov1)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Anile_nch)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -50,6 +50,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
+
+## Образование
+
 <br>
 
 
